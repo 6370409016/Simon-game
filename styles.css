@@ -11,9 +11,9 @@ body {
 }
 
 footer {
-  margin-top: 30px;
+  margin: 30px;
   color: #DBEDF3;
-  font-family: cursive;
+  font-family: sans-sarif;
 
 }
 
@@ -61,15 +61,16 @@ footer {
 
 .anykey{
 
-  top:50%;
+    top:50%;
     background-color:#0c28f5;
     color: #fff;
     border:none;
-    border-radius:10px;
-    padding:15px;
+    border-radius:30px;
+    padding:30px 70px;
     min-height:30px;
     min-width: 120px;
     font-weight: 500;
+    font-size: 3rem;
 
 }
 .anykey:active {
